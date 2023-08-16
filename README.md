@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Loloooo12
+- 📍 I’m from Argentina
+- 🌱 I’m currently learning Python
